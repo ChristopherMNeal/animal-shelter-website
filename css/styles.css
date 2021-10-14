@@ -1,0 +1,11 @@
+.pet p {
+  text-align: center;
+  color: orange;
+  background-color: gray;
+}
+
+.animal p {
+  text-align: center;
+  color: blue;
+  background-color: honeydew;
+}
